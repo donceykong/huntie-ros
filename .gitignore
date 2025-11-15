@@ -1,0 +1,4 @@
+
+# Ignore dae mesh files in urdf (They should be compressed)
+urdf/meshes/*.dae
+
